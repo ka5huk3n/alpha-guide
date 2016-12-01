@@ -1,5 +1,5 @@
 +++
-title = "Choose Your Adventure"
+title = "Найдите себе приключение"
 toc = true
 icon = "<b>6. </b>"
 date = "2016-11-18T18:56:39-08:00"

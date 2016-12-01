@@ -1,5 +1,5 @@
 +++
-title = "Adjust Your Skill Queue"
+title = "Список изучаемых навыков"
 toc = true
 icon = "<b>7. </b>"
 date = "2016-11-18T18:56:39-08:00"

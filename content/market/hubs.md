@@ -2,29 +2,29 @@
 next = "/career-agents/"
 prev = "/market/"
 date = "2016-11-18T18:35:17-08:00"
-title = "Market Hubs"
+title = "Торговые центры"
 weight = 1
 +++
 
-While it's technically possible to sell items from any station in EVE, the vast majority
-of items are bought and sold at a small set of stations referred to as "market hubs".
-These stations will have literally thousands of times more items available than your
-average station.
+Хотя технически и возможно продать предметы на любой станции в «ЕВЕ», большая часть товаров 
+продаётся и покупается на небольшом числе станций под названием "торговые центры" или "торговые хабы".
+На этих станциях вы найдёте, в буквальном смысле, в тысячу раз больше товаров чем на обычной станции.
 
-`Jita IV - Moon 4 - Caldari Navy Assembly Plant` is the most popular market hub. It is located in Caldari space.
+`Jita IV - Moon 4 - Caldari Navy Assembly Plant` является самым популярным хабом. Он находится в пространстве Калдари.
 
-`Amarr VIII (Oris) - Emperor Family Academy` is also fairly popular, and is located in Amarr space.
+`Amarr VIII (Oris) - Emperor Family Academy` также довольно популярен и находится в пространстве Амарр.
 
-`Dodixie IX - Moon 20 - Federation Navy Assembly Plant` is the largest Gallente market hub.
+`Dodixie IX - Moon 20 - Federation Navy Assembly Plant` является крупнейшим хабом Галленте.
 
-`Rens VI - Moon 8 - Brutor Tribe Treasury` and `Hek VIII - Moon 12 - Boundless Creation Factory` are the largest Minmatar market hubs.
+`Rens VI - Moon 8 - Brutor Tribe Treasury` и `Hek VIII - Moon 12 - Boundless Creation Factory` являются крупнейшими хабами в пространстве Минматар.
 
-You can visit any of these hubs no matter the race of your character, but your starting system will likely be much
-closer to the market hubs in your own race's space.
+Вы сможете посетить любой из этих хабов, вне зависимости от расы вашего персонажа, но ваша стартовая система, скорее всего,
+будет расположена ближе всего к хабу в пространстве вашей расы.
 
 {{% notice warning %}}
-When traveling to and from a distant trade hub, avoid low-security space. Sometimes the shortest
-route is through low security space; make sure your autopilot is set to take the **safest**
-route instead. Hostile players often camp the "faster" low-security routes between trade hubs
-in hopes of getting easy kills.
+Во время путешествия из одного удалённого торгового хаба к другому, избегайте систем с низким уровнем безопасности.
+Иногда кратчайший маршрут пролегает через системы с низким уровнем безопасности, потому удостоверьтесь в том, что 
+в автопилоте включён выбор **самого безопасного** маршрута.
+Враждебные игроки зачастую устраивают засады на "кратчайших" маршрутах между хабами с низким уровнем безопасности, 
+в надежде на получение лёгких убийств.
 {{% /notice %}}

@@ -1,5 +1,5 @@
 +++
-title = "Join a Corporation"
+title = "Вступите в корпорацию"
 toc = true
 icon = "<b>8. </b>"
 date = "2016-11-18T18:56:39-08:00"
@@ -7,11 +7,11 @@ next = "/learn-more/"
 prev = "/training/trade/"
 +++
 
-While it is certainly possible to play EVE alone, it's generally a lot more fun
-to have a group of other people who share your interests. Joining a corporation
-will give you many more options than you'd have flying alone.
+Несмотря на то, что играть в «ЕВУ» можно в одиночку, гораздо увлекательнее это делать 
+в группе с другими людьми, разделяющими ваши интересы. Вступление в корпорацию 
+предоставит вам гораздо больше возможностей в отличии от соло игры.
 
-### Starter NPC Corps
+### Стартовые NPC корпорации
 
 You start the game in one of these, automatically assigned based on how you created
 your character - your race and bloodline. If you ever join a different corp and then
@@ -20,7 +20,7 @@ quit it later, you'll be placed back into another NPC corp based on your race.
 All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn
 will be charged a 10% fee.
 
-### Factional Warfare NPC Corps
+### NPC корпорации фракционных войн
 
 Faction Warfare (FW) allows you to sign up to PvP for your race's empire in low-sec
 space: Amarr vs. Minmatar and Caldari vs. Gallente. There are two ways of getting into
@@ -30,7 +30,7 @@ player-run corp that participates in faction warfare.
 For more details about Faction Warfare, see the [UniWiki Factional Warfare guide]
 (http://wiki.eveuniversity.org/Factional Warfare).
 
-### Player-run Corps
+### Корпорации игроков
 
 Players can create their own corporations (and in fact the majority of corporations
 in EVE are player-created). These corporations can set their own tax rates, declare

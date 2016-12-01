@@ -1,56 +1,57 @@
 +++
 toc = true
 date = "2016-11-18T17:33:01-08:00"
-title = "Amarr (Impairor)"
+title = "Амарр (Impairor)"
 weight = 1
 next = "/market/"
 prev = "/rookie-fitting/"
 +++
 
-The Amarr corvette is the Impairor.
+«Импэйрор» - это амаррский корвет.
 
 <object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">View Alpha Impairor w/Drone on Osmium</a></object>
 
-### Weapons
+### Вооружение
 
-Since rookie ships are frigates, they use weapons from the 'small' size bracket.
-This fit uses two `Gatling Pulse Laser I` turrets in the high slots.
-Pulse lasers are shorter ranged but easier to fit than beam lasers.
-Because you're generally going to be fighting things at close range
-in a rookie ship, using a shorter-ranged weapon system is fine.
+Так как учебные корабли являются фрегатами, они используют орудия малых размеров.
+Эта оснастка использует два орудия `Gatling Pulse Laser I` в разъёмах большой мощности.
+Импульсные лазеры обладают меньшей дальностью ведения огня но их легче устанавливать чем непрерывные лазеры.
+Так как, в большинстве случаев, вы будете воевать с врагами на корвете на короткой дистанции,
+использования орудий с меньшей дальностью ведения огня будет достаточно.
 
-The pulse lasers are each loaded with a single `Multifrequency S` crystal.
-These basic crystals will never burn out, so all you need to buy is two.
-Multifrequency is the shortest-ranged basic crystal, but does the most damage.
-Since you're going to be fighting a close range anyway, more damage is good.
+Каждый импульсный лазер заряжен одним частотным кристаллом `Multifrequency S`.
+Эти базовые частотные кристаллы никогда не сгорят, потому вам достаточно купить лишь два.
+Multifrequency - базовый кристалл с наименьшей дистанцией ведения огня, но и с наибольшим уроном.
+Так как вы всё равно будете сражаться на близких дистанциях, чем больше урона - тем лучше.
 
-The reusable `Acolyte I` combat drone can be launched to fly independently to distant enemies,
-dealing EM damage to them.  Remember to order your drone to return to your
-Drone Bay before warping, or if it is taking damage from enemy fire.
+`Acolyte I` - это дрон многоразового использования, который может быть запущен отдельно для преследования удалённых целей.
+Он наносит ущерб электромагнитным (EM) воздействием. Не забывайте возвращать ваших дронов в отсек для дронов
+перед тем как активировать варп-двигатель или в случае когда они получают повреждения от врагов.
 
 {{% notice info %}}
-To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+Для использования боевых дронов вам нужно изучить навыки `Управление дронами` III (`Drones` III) и `Лёгкие боевые дроны` I (`Light Drone Operation` I).
+Мы рекомендуем потратить на изучение часть СП полученных вами ранее в процессе обучения из Малого СП-инъектора
+так как эти навыки вам ещё пригодится на других кораблях.
+Для изучения навыка `Лёгкие боевые дроны` (`Light Drone Operation`) вам нужно будет купить его учебник на рынке.
 {{% /notice %}}
 
-### Defenses
+### Защита
 
-Since the Impairor is bonused for armor resistances, this fit is designed around armor.
-It uses a `Small Armor Repairer I` in one of the low slots. It also fits a `Damage Control I`
-which increases the ship's resistances, reducing incoming damage and making the armor repairer
-more effective.
+Так как у «Импэйрора» есть бонус к сопротивляемости брони, мы соберём оснастку для защиты бронёй.
+Она использует `Small Armor Repairer I` в одном из разъёмов малой мощности. Она также использует 
+`Damage Control I` который увеличивает сопротивляемость брони корабля всем видам воздействия, уменьшая 
+тем самым входящие повреждения и увеличивая эффективность процесса ремонта брони.
 
-### Utility
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and also makes your ship harder to hit.
+### Дополнительные модули
 
-The `Stasis Webifier I` helps your lasers apply their damage better, because it's easier to hit
-the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+`1MN Afterburner I` позволяет придать вашему кораблю дополнительную скорость. 
+Это даст возможность с лёгкостью ловить вражеские корабли и одновременно усложнит процесс попадания по вашему кораблю.
 
-### Where do I get this stuff?
+`Stasis Webifier I` поможет вашим лазерам лучше наносить повреждения потому как 
+в замедленную цель легче попасть. (Это также упростит пребывание в пределах досягаемости медленных врагов.)
 
-You may already have some of these modules, but if you don't, it's time to go use the Market.
-The next chapter will walk you through how to effectively use the market to purchase items.
+### Где мне это всё раздобыть?
+
+Ранее вы уже могли владеть некоторыми из этих модулей, но если их у вас нет, сейчас самое время воспользоваться рынком. 
+Следующая глава руководства ознакомит вас с тем, как эффективно использовать рынок и покупать предметы.

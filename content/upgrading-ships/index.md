@@ -1,21 +1,21 @@
 +++
-title = "Upgrade to a New Ship"
+title = "Пересядьте на новый корабль"
 toc = true
 icon = "<b>5. </b>"
 date = "2016-11-18T18:56:39-08:00"
 prev = "/career-agents/military/"
 +++
 
-By this point you should have the resources to move on from the basic rookie ship to
-something better. The ships you have available will depend on your race, so choose
-the proper link below to go to the subsection appropriate for you:
+К этому моменту вы должны были накопить достаточно ресурсов, для того, чтобы пересесть с начального корвета
+на что-то получше. Выбор доступных кораблей будет зависеть от вашей расы, поэтому выберите соответствующую ссылку ниже 
+для перехода в подходящий вам раздел:
 
-[Amarr](/upgrading-ships/amarr/) /
-[Caldari](/upgrading-ships/caldari/) /
-[Gallente](/upgrading-ships/gallente/) /
-[Minmatar](/upgrading-ships/minmatar/)
+[Амарр](/upgrading-ships/amarr/) /
+[Калдари](/upgrading-ships/caldari/) /
+[Галленте](/upgrading-ships/gallente/) /
+[Минматар](/upgrading-ships/minmatar/)
 
 {{% notice info %}}
-These fits are designed primarily for PvE content.
-For PvP you'll want to consult other resources.
+Эти оснастки в первую очередь предназначены для прохождения PvE контента.
+Для PvP вам следует обратиться к другим ресурсам.
 {{% /notice %}}

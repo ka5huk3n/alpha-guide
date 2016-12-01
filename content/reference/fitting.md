@@ -1,5 +1,5 @@
 +++
-title = "How to Fit Ships Well"
+title = "Правильное оснащение кораблей"
 toc = true
 date = "2016-11-18T18:56:39-08:00"
 weight = 1

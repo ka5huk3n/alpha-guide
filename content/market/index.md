@@ -3,39 +3,40 @@ prev = "/rookie-fitting/"
 next = "/market/hubs/"
 icon = "<b>3. </b>"
 date = "2016-11-18T18:35:17-08:00"
-title = "Use the Market"
+title = "Используйте рынок"
 toc = true
 +++
 
-### Searching the Market
+### Поиск по рынку
 
-When following this guide you'll almost always be wanting particular items
-from the market. The fastest way to find those items is use the search box.
-Copy the name of the item and paste it into the box to the left of the
-"Search" button, then click that button. A list of results (most likely
-with only a single item, but sometimes more) will appear beneath.
-Click the item in the result list to see where that item is available.
+Следуя этому руководству, вам, как правило, придётся искать определённые предметы на рынке.
+Быстрее всего это получится сделать с помощью поля поиска.
+Скопируйте имя предмета и вставьте его в поле слева от кнопки "Найти" после чего нажмите на эту кнопку.
+Чуть ниже появится список с результатами поиска (как правило это будет один предмет, но иногда больше).
+Нажмите на имя предмета в списке результатов для того, чтобы увидеть местонахождение и доступность этого товара. 
 
-### Buying Items
 
-When viewing market listings for a particular item you will see two sections:
-Sellers and Buyers. We're going to concentrate on the Sellers section for now
-because we want to buy items from those Sellers.
+### Покупка предметов
 
-#### Sort your sellers list
+Во время просмотра информации по определённому товару вы увидите два раздела:
+"Продавцы" и "Покупатели". Сейчас мы сконцентрируемся только на разделе "Продавцы", потому как
+мы хотим купить товары у этих продавцов.
 
-First of all: **make sure your sellers are sorted by Price, ascending**.
-This means that the price column should be the only column with an upwards-pointing
-triangle on the right side of it. Try clicking the price column header to change the sorting.
-Click the price column as many times as you need until it's sorting properly. This is
-to make sure you're not accidentally buying a highly overpriced version of the item
-just because it happens to be a system closer.
+#### Отсортируйте список продавцов
 
-Sorting by price also helps you avoid a scam where someone lists an item for what seems to
-be a cheaper price, but actually has a few extra zeroes on the end - so you wind up
-paying 1 million isk instead of 1 thousand isk or similar.
+В первую очередь, **убедитесь в том, что продавцы отсортированы по возрастанию цены**
+Это означает то, что столбец с ценами должен быть единственным столбцом, в правой части которого 
+будет находится маленький треугольник указывающий вверх. Попробуйте нажать на заголовок столбца с ценами
+для изменения порядка сортировки.
+Нажимайте на столбец с ценами столько, сколько потребуется, до тех пор, пока он не будет упорядочен правильно.
+Это необходимо для того, чтобы вы случайно не купили товар по завышенной цене, просто потому что он находится 
+в ближайшей системе.
 
-#### Look at the availability
+Упорядочивание по цене также поможет избежать мошеннических схем, в которых игроки 
+выставляют товар с кажущейся низкой ценой (на самом деле с несколькими дополнительными нулями в конце).
+Купив такой товар вы заплатите 1 миллион межзвёздных кредитов (ISK) вместо 1 тысячи межзвёздных кредитов.
+
+#### Проверьте доступность
 
 Now, look through the list. The first column, **Jumps**, shows you how far you'll need to go
 to pick up the item after buying it. When you buy an item, you buy it in the station where
@@ -64,7 +65,7 @@ listings. For instance, you can uncheck the boxes for 'Low Sec' and 'Null Sec' t
 hide listings from lower security space.
 {{% /notice %}}
 
-#### Pick a seller to buy from
+#### Выберите продавца для совершения покупки
 
 For very cheap items, it's often worth it to buy it closer to avoid having to make extra jumps.
 For more expensive items, going a few more jumps to get a better price may be worth the time.

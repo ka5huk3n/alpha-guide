@@ -1,5 +1,5 @@
 +++
-title = "Keep Learning"
+title = "Продолжайте учиться"
 toc = true
 icon = "<b>9. </b>"
 date = "2016-11-18T18:56:39-08:00"

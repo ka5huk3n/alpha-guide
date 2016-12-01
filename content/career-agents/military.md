@@ -1,13 +1,13 @@
 +++
 toc = true
 date = "2016-11-18T18:59:33-08:00"
-title = "Military Agents"
+title = "Боевая подготовка"
 weight = 1
 next = "/upgrading-ships/"
 prev = "/career-agents/industry/"
 +++
 
-There are actually two military career agents - the regular Military Agent and the Advanced Military Agent.
+There are actually two military career agents - the regular боевой подготовки and the углубленной боевой подготовки.
 We recommend doing both chains - first the regular agent, then the advanced agent.
 
 ### Military Agent

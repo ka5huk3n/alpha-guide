@@ -1,59 +1,61 @@
 +++
 toc = true
 date = "2016-11-18T17:33:01-08:00"
-title = "Minmatar (Reaper)"
+title = "Минматар (Reaper)"
 weight = 1
 next = "/market/"
 prev = "/rookie-fitting/"
 +++
 
-The Minmatar corvette is the Reaper.
+«Рипер» - это минматарский корвет.
 
 <object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">View Alpha Reaper w/Drone on Osmium</a></object>
 
-### Weapons
+### Вооружение
 
-Rookie ships (corvettes) use weapons from the 'small' size bracket.
-This fit uses two `125mm Gatling AutoCannon I` turrets in the high slots.
-Autocannons are shorter ranged but faster firing than artillery.
-Because you're generally going to be fighting things at close range
-in a rookie ship, using a shorter-ranged weapon system is fine.
+Так как учебные корабли (корветы) являются фрегатами, они используют орудия малых размеров.
+Эта оснастка использует два орудия `125mm Gatling AutoCannon I` в разъёмах большой мощности.
+Автопушки обладают меньшей дальностью ведения огня, но и гораздо большей скорострельностью по сравнению с артиллерией.
+Так как, в большинстве случаев, вы будете воевать с врагами на корвете на короткой дистанции,
+использования орудий с меньшей дальностью ведения огня будет достаточно.
 
-The autocannons are loaded with 200 `Fusion S` each, but you should carry at least 2000
-extra ammo in your cargo hold to make sure you don't run out while fighting.
+Каждая автопушка заряжена 200 снарядами `Fusion S` но вам стоить возить с собой хотя бы 2000 дополнительных единиц
+в трюме корабля, чтобы не оказаться без боеприпасов посреди боя.
 
-Fusion is one of the shorter-ranged projectile ammo types, but does more explosive damage.
-Since you're going to be fighting a close range anyway, more damage is good.
+Fusion - тип снаряда с короткой дистанцией ведения огня, но со значительным взрывным уроном.
+Так как вы всё равно будете сражаться на близких дистанциях, чем больше урона - тем лучше.
 
-The reusable `Warrior I` combat drone can be launched to fly independently to distant enemies,
-dealing Explosive damage to them.  Remember to order your drone to return to your
-Drone Bay before warping, or if it is taking damage from enemy fire.
+`Warrior I` - это дрон многоразового использования, который может быть запущен отдельно для преследования удалённых целей.
+Он наносит ущерб взрывным воздействием. Не забывайте возвращать ваших дронов в отсек для дронов
+перед тем как активировать варп-двигатель или в случае когда они получают повреждения от врагов.
 
 {{% notice info %}}
-To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+Для использования боевых дронов вам нужно изучить навыки `Управление дронами` III (`Drones` III) и `Лёгкие боевые дроны` I (`Light Drone Operation` I).
+Мы рекомендуем потратить на изучение часть СП полученных вами ранее в процессе обучения из Малого СП-инъектора
+так как эти навыки вам ещё пригодится на других кораблях.
+Для изучения навыка `Лёгкие боевые дроны` (`Light Drone Operation`) вам нужно будет купить его учебник на рынке.
 {{% /notice %}}
 
-The `Gyrostabilizer I` in one of the low slots improves your projectile turrets, increasing
-their damage per shot and rate of fire.
+`Gyrostabilizer I` в одном из разъёмов малой мощности, улучшает ваши баллистические орудия, 
+увеличивая их урон за каждый выстрел и скорострельность.
 
-### Defenses
+### Защита
 
-Since the Reaper is bonused for shield boosters, this fit is based around shields. It uses a
-`Small Shield Booster I` in one of the mid slots. (A medium shield booster could fit, but it
-uses much more capacitor for each cycle, which on a rookie ship will quickly run out.)
+Так как у «Рипера» есть бонус к накачке щитов, мы соберём оснастку для защиты щитом.
+Она использует `Small Shield Booster I` в одном из разъёмов средней мощности.
+Несмотря на то, что активация этого модуля на длительные периоды времени может истощить
+уровень энергии накопителя корабля, он поможет значительно повысить выживаемость
+если его активировать короткими циклами.
 
-The fit also uses a `Damage Control I` in one of its low slots, which increases the ship's
-resistances, reducing incoming damage and making the shield booster more effective.
+«Рипер» также использует `Damage Control I` который увеличивает сопротивляемость корабля всем видам воздействия, уменьшая 
+тем самым входящие повреждения и увеличивая эффективность процесса накачки щитов.
 
-### Utility
+### Дополнительные модули
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and also makes your ship harder to hit.
+`1MN Afterburner I` позволяет придать вашему кораблю дополнительную скорость. 
+Это даст возможность с лёгкостью ловить вражеские корабли и одновременно усложнит процесс попадания по вашему кораблю.
 
-### Where do I get this stuff?
+### Где мне это всё раздобыть?
 
-You may already have some of these modules, but if you don't, it's time to go use the Market.
-The next chapter will walk you through how to effectively use the market to purchase items.
+Ранее вы уже могли владеть некоторыми из этих модулей, но если их у вас нет, сейчас самое время воспользоваться рынком. 
+Следующая глава руководства ознакомит вас с тем, как эффективно использовать рынок и покупать предметы.

@@ -1,5 +1,5 @@
 +++
-title = "Minmatar Ships"
+title = "Корабли Минматар"
 toc = true
 date = "2016-11-18T18:56:39-08:00"
 weight = 1

@@ -1,60 +1,60 @@
 +++
 toc = true
 date = "2016-11-18T17:33:01-08:00"
-title = "Gallente (Velator)"
+title = "Галленте (Velator)"
 weight = 1
 next = "/market/"
 prev = "/rookie-fitting/"
 +++
 
-The Gallente corvette is the Velator.
+«Велатор» - это галлентский корвет.
 
 <object type="image/svg+xml" data="https://o.smium.org/api/convert/119448/svg/119448-alpha-velator-wdrones.svg?privatetoken=4210567194314014720"><a href="https://o.smium.org/loadout/private/119448/4210567194314014720">View Alpha Velator w/Drones on Osmium</a></object>
 
-### Weapons
+### Вооружение
 
-Rookie ships (corvettes) use weapons from the 'small' size bracket.
-This fit uses two `75mm Gatling Rail I` turrets in the high slots.
-Railguns are a long-ranged weapon system, relative to Blasters, the short-ranged hybrid-gun option.
-While they pack a bit less punch, the Railguns let you engage sooner,
-without spending as much time flying into range while taking enemy fire.
+Так как учебные корабли (корветы) являются фрегатами, они используют орудия малых размеров.
+Эта оснастка использует два орудия `75mm Gatling Rail I` в разъёмах большой мощности.
+Рельсотроны являются дальнобойными орудиями, в то время как бластеры являются орудиями с короткой дистанцией огня.
+Несмотря на то что урон рельсотронов не слишком велик, они позволяют вам вступать в бой раньше, 
+не тратя попусту время на полёт до цели под вражеским огнём.
 
-Unlike civilian guns, these - and most other weapons - have to be loaded with ammunition to function.
-The railguns are loaded with `Antimatter Charge S` rounds.
-You should carry at least 1000 rounds with you.
-They are the shortest-range hybrid ammunition, but inflict the most damage. 
+В отличии от гражданских орудий, эти и все прочие орудия требуют наличия зарядов для стрельбы.
+Эти рельсотроны заряжены снарядами `Antimatter Charge S`.
+Вам следует возить с собой не менее 1000 снарядов на всякий случай.
+Antimatter - гибридный снаряд с наименьшей дистанцией ведения огня, но и с наибольшим уроном.
 
-When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
-You will usually want to command your ship to orbit at about 2500m from your target.
-Being too near or too far from a moving target may cause your shots to miss.
+В комбинации с дальнобойными рельсотронами они позволят вам эффективно вести бой на вредних дистанциях.
+Как правило вам достаточно будет выставить дистанцию орбиты 2500 метров от цели.
+Слишком сильное приближение или отдаление от движущейся цели может привести к промахам.
 
-The reusable `Hobgoblin I` combat drones can be launched to fly independently to distant enemies,
-dealing Thermal damage to them.  Remember to order your drones to return to your
-Drone Bay before warping, or if they are taking damage from enemy fire.
+`Hobgoblin I` - это дрон многоразового использования, который может быть запущен отдельно для преследования удалённых целей.
+Он наносит ущерб термическим воздействием. Не забывайте возвращать ваших дронов в отсек для дронов
+перед тем как активировать варп-двигатель или в случае когда они получают повреждения от врагов.
 
 {{% notice info %}}
-To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+Для использования боевых дронов вам нужно изучить навыки `Управление дронами` III (`Drones` III) и `Лёгкие боевые дроны` I (`Light Drone Operation` I).
+Мы рекомендуем потратить на изучение часть СП полученных вами ранее в процессе обучения из Малого СП-инъектора
+так как эти навыки вам ещё пригодится на других кораблях.
+Для изучения навыка `Лёгкие боевые дроны` (`Light Drone Operation`) вам нужно будет купить его учебник на рынке.
 {{% /notice %}}
 
-### Defenses
+### Защита
 
-Since the Velator is bonused for armor repairs, this fit is designed around armor.
-It uses a `Small Armor Repairer I` in one of the low slots. It also fits a `Damage Control I`
-which increases the ship's resistances, reducing incoming damage and making the armor repairer
-more effective.
+Так как у «Велатор» есть бонус к ремонту брони, мы соберём оснастку для защиты бронёй.
+Она использует `Small Armor Repairer I` в одном из разъёмов малой мощности. Она также использует 
+`Damage Control I` который увеличивает сопротивляемость брони корабля всем видам воздействия, уменьшая 
+тем самым входящие повреждения и увеличивая эффективность процесса ремонта брони.
 
-### Utility
+### Дополнительные модули
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and makes your ship harder to hit.
+`1MN Afterburner I` позволяет придать вашему кораблю дополнительную скорость. 
+Это даст возможность с лёгкостью ловить вражеские корабли и одновременно усложнит процесс попадания по вашему кораблю.
 
-The `Stasis Webifier I` helps your railguns apply their damage better, because it's easier to hit
-the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+`Stasis Webifier I` поможет вашим лазерам лучше наносить повреждения потому как 
+в замедленную цель легче попасть. (Это также упростит пребывание в пределах досягаемости медленных врагов.)
 
-### Where do I get this stuff?
+### Где мне это всё раздобыть?
 
-You may already have some of these modules, but if you don't, it's time to go use the Market.
-The next chapter will walk you through how to effectively use the market to purchase items.
+Ранее вы уже могли владеть некоторыми из этих модулей, но если их у вас нет, сейчас самое время воспользоваться рынком. 
+Следующая глава руководства ознакомит вас с тем, как эффективно использовать рынок и покупать предметы.

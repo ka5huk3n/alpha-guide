@@ -1,22 +1,23 @@
 +++
 toc = true
 date = "2016-11-18T17:13:07-08:00"
-title = "What is this guide for?"
+title = "Для чего это руководство?"
 weight = 101
 next = "/start/prereqs/"
 prev = "/start/"
 +++
 
-This guide is designed to help alpha clone players quickly ramp up their competency in EVE Online.
+Это руководство создано для того, чтобы помочь игрокам с альфа-статусом быстро сориентироваться в EVE Online.
 
-While we can't make you an expert overnight, we can start you out on the right foot and help you
-grasp the things that the tutorial might not cover, or cover them in more detail.
+Хотя мы и не сможем превратить вас в экспертов за один вечер, мы попробуем направить вас в правильном направлении
+и поможем уловить суть вещей, которые возможно не были затронуты  начальным курсом обучения.
 
-This guide isn't comprehensive. There are many other excellent resources out there that provide
-broader knowledge about EVE Online, and parts of this guide may link to them as well. However,
-this guide in particular aims to address the specific needs of alpha clone capsuleers.
+Это руководство не всеобъемлюще. Существует множество отличных ресурсов, предоставляющих обширные сведения
+о EVE Online и некоторые части этого руководства могут быть с ними связаны. Однако, это руководство 
+в целом, освещает специфические нужды капсулиров c альфа-клонами.
 
 {{% notice note %}}
-We're constantly updating and adding new information to the Guide.
-Have a suggestion? [Tell us!](https://github.com/ayust/alpha-guide/issues/new)
+Мы постоянно обновляем и добавляем новую информацию в это руководство.
+Хотите оставить отзыв по переводу? [Отправьте нам сообщение!](https://github.com/ka5huk3n/alpha-guide/issues/new)
+Оставить отзыв к оригинальному руководству на английском языке можно [здесь](https://github.com/ayust/alpha-guide/issues/new).
 {{% /notice %}}
