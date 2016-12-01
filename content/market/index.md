@@ -34,59 +34,59 @@ toc = true
 
 Упорядочивание по цене также поможет избежать мошеннических схем, в которых игроки 
 выставляют товар с кажущейся низкой ценой (на самом деле с несколькими дополнительными нулями в конце).
-Купив такой товар вы заплатите 1 миллион межзвёздных кредитов (ISK) вместо 1 тысячи межзвёздных кредитов.
+Купив такой товар вы заплатите 1 миллион межзвёздных кредитов (ISK) вместо 1 тысячи ISK.
 
 #### Проверьте доступность
 
-Now, look through the list. The first column, **Jumps**, shows you how far you'll need to go
-to pick up the item after buying it. When you buy an item, you buy it in the station where
-it was listed - not necessarily in your current station. So if the 'Jumps' column reads
-'5', that means that after buying the item you'll need to jump through 5 stargates to reach
-the system where you bought the item. If the jumps column says 'System' it means the item
-is located in your current system but a different station, and if it says 'Station' it means
-that it's listed in the same station you're currently in.
+Теперь взгляните на список. Первая колонка **Прыжки** подскажет вам расстояние которое 
+вам нужно преодолеть для того, чтобы забрать товары после покупки. Когда вы покупаете какой-то 
+предмет - вы покупаете его на станции где он был выставлен на продажу, не обязательно на текущей станции.
+Поэтому если в колонке "Прыжки" указано число 5, вам нужно будет пропрыгнуть через 5 гиперворот 
+до того как вы достигните системы с купленным предметом.
+Если в колонке указано слово "Система", это означает что предмет находится в текущей системе но на другой станции.
+Если там указано слово "Станция", предмет выставлен на продажу на текущей станции.
 
-Next up is **Quantity** - displaying how many items are available via that seller. If you want
-to buy more, you'll need to get them from multiple sellers.
+Далее идёт колонка **Количество**, которая отображает общее количество товаров доступных у этого продавца.
+Если вам необходимо больше предметов, то вам нужно будет их купить у нескольких продавцов.
 
-The **Price** column lists the price per unit being offered; if the listed price is 100.00
-ISK and you want to buy 50 of the item, you'll wind up paying 5000 ISK total.
+Колонка **Цена** показывает цену за единицу предлагаемого товара; если указанная цена равняется 100.00 кредитов 
+и вы хотите купить 50 единиц этого товара, в итоге вы потратите 5000 ISK.
 
-You can see exactly which station the items are listed from in the **Location** column. This is
-important - before buying items in another system, you'll probably want to check to make sure
-you can get there without having to go through low-security space (0.4 and below). Otherwise
-you might get ganked on the way. You can right-click on a particular seller and choose
-Location -> Set Destination to a set an autopilot course to it, and then look at the colored
-dots that the autopilot shows you: if any of them are orange or red, don't buy from there.
+Вы можете увидеть на какой именно станции находятся ордера с товарами в колонке **Место**.
+Это очень важно - перед покупкой предмета в другой системе, вы скорее всего захотите удостовериться в том, 
+что не придётся проходить через системы с низким уровнем безопасности (0.4 и ниже). В ином случае по пути 
+на вас могут напасть. Вы можете нажать на строчку с продавцом правой кнопкой мыши и выбрать 
+Место -> Задать место назначения для того, чтобы задать маршрут для автопилота к этому месту. 
+После этого посмотрите на цветные точки в маршруте: если хотя бы одна из них оранжевого или красного цвета, 
+не покупайте ничего оттуда.
 
 {{% notice tip %}}
-You can also click the gear icon at the top-right of the market window to set filters on the
-listings. For instance, you can uncheck the boxes for 'Low Sec' and 'Null Sec' to completely
-hide listings from lower security space.
+Вы также можете нажать на значок шестерёнки в правом верхнем углу окна рынка, для того, чтобы
+назначить фильтры для списков. Например, вы можете снять отметки с "Лоу-сек" и "Нуль-сек", чтобы
+полностью скрыть предложения в системах с низким уровнем безопасности.
 {{% /notice %}}
 
 #### Выберите продавца для совершения покупки
 
-For very cheap items, it's often worth it to buy it closer to avoid having to make extra jumps.
-For more expensive items, going a few more jumps to get a better price may be worth the time.
+Как правило, очень дешёвые товары стоит покупать как можно ближе для того чтобы избежать 
+дополнительных гиперпереходов. В случае с более дорогими товарами, по большей части имеет смысл 
+найти ордер с наименьшей ценой и потраченное время будет того стоить.
 
-Once you've chosen which seller you want to buy from, right-click the entry and choose 'Buy'
-which will pop up a window asking how many items you want to purchase. Type in the quantity
-(or stick with the default of 1) and press 'Buy'. Once you've bought an item, it will show
-up in the **Item Hangar** of the station where you bought it. You will need to fly to that
-station (if not the one you're currently in) and pick it up.
+Как только вы выбрали подходящего продавца, нажмите по его строке правой кнопкой мыши и выберите 
+"Купить этот товар". Сразу после этого появится всплывающее окно с запросом количества товаров для покупки.
+Введите нужное количество (либо оставьте 1 по-умолчанию) и нажмите "Купить". Как только вы купите предмет, он появится 
+на **Складе** станции на которой был выставлен ордер. Вам нужно будет слетать на эту станцию и подобрать вашу покупку.
 
-If you bought an item but can't remember where, you can use the **Assets** window
-(<kbd>Alt</kbd>+<kbd>T</kbd>) to look through everything you own in EVE and find the station.
-Note however that the Assets window only updates every 5 minutes, so you may need to wait a
-few minutes for it to show up there.
+Если вы купили предмет но забыли где именно, вы можете воспользоваться окном **Имущество** (<kbd>Alt</kbd>+<kbd>T</kbd>) 
+чтобы увидеть все ваши предметы в «ЕВЕ» и найти конкретную станцию. Однако стоит отметить что окно **Имущество** обновляется 
+раз в 5 минут, так что возможно вам придётся немного подождать перед тем как новый предмет там появится.
 
 {{% notice note %}}
-Markets in EVE are on a per-region basis. This means that depending on where you are in the galaxy
-you'll see different sets of sellers. In your starter system, there are likely to be market listings
-for the basic modules you'll want. More advanced items, however, are unlikely to be available at a
-reasonable price. If you're looking for a particular item and can't find any sellers, you may need
-to go to a different region to find people listing it for sale. The next page will talk a bit about
-some of the 'market hubs' where you can buy almost anything. You can also use the player-run site
-[EVE-Central](https://eve-central.com/) to check what prices are like across all of EVE.
+Все рынки в «ЕВЕ» распределены по регионам. Это означает то, что вы будете видеть разные списки продавцов 
+в зависимости от вашего местоположения в галактике. В стартовых системах скорее всего будут рыночные ордера 
+с нужным вам базовыми модулями и навыками. Однако вряд ли более продвинутые модули будут доступны там по сходной цене.
+Если вы ищете специфический предмет и не можете найти ни одного продавца, возможно вам потребуется перелететь 
+в другой регион с другими списками ордеров. Из текста на следующей странице вы узнаете о некоторых "торговых центрах" 
+или иначе "хабах" в которых вы можете купить почти всё что угодно. Вы также можете использовать созданный игроками сайт 
+[EVE-Central](https://eve-central.com/) для сверки с ценами по всему пространству «ЕВЫ».
 {{% /notice %}}
