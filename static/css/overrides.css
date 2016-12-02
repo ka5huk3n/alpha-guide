@@ -5,15 +5,16 @@
 }
 
 h1 {
-    font-family: "Georgia", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
-  }
+  font-family: "Georgia", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}
   
-body {
-    font-family: "Georgia", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
-  }
+ body { 
+ font-family: "Georgia", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; */
+} 
 
-#chapter h3 { font-family: "Tahoma", "Arial", sans-serif;
-  }
+#chapter h3 {
+  font-family: "Tahoma", "Arial", sans-serif;
+}
 
 kbd {
   padding: 1px 5px;
@@ -22,9 +23,9 @@ kbd {
   margin: 0px 3px;
 }
 
-b, strong, label, th {
-  font-weight: 500;
-}
+/* b, strong, label, th { */
+  /* font-weight: 500; */
+/* } */
 
 video {
   margin: 0 auto;
