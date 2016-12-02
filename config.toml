@@ -1,6 +1,6 @@
 baseurl = "https://www.thealphasguide.com/"
-title = "The Alpha's Guide to the Galaxy"
-languageCode = "en-us"
+title = "Путеводитель aльфа-клонов по Новому Эдему"
+languageCode = "ru"
 
 theme = "hugo-theme-learn"
 publishdir = "public"
@@ -19,4 +19,4 @@ builddrafts = true
     "learn-more",
     "reference"
   ]
-  editURL = "https://github.com/ayust/alpha-guide/edit/master/content/"
+  editURL = "https://github.com/ka5huk3n/alpha-guide/edit/translated-ru/content/"
