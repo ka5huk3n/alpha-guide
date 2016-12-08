@@ -7,67 +7,67 @@ next = "/upgrading-ships/"
 prev = "/career-agents/industry/"
 +++
 
-There are actually two military career agents - the regular боевой подготовки and the углубленной боевой подготовки.
-We recommend doing both chains - first the regular agent, then the advanced agent.
+На самом деле есть два агента боевой подготовки - армии и углублённой боевой подготовки.
+Мы рекомендуем пройти обе цепочки заданий - сначала армии, потом углублённой боевой подготовки
 
-### Military Agent
+### Агент армии
 
-The regular Military Agent focuses on teaching you the basics of PvE combat missions
-in the chain **Cash Flow for Capsuleers**. Missions like these are one of the main
-ways for making ISK in EVE via PvE combat.
+Агент армии обучит вас основам боевых заданий PvE в цепочке **Наличные для капсулеров**.
+Подобные задания являются одним из основных видов заработка кредитов в «ЕВЕ» с помощью PvE сражений.
 
-If you get stuck along the way, there's a video guide to the missions that begins here:
+Если вы застряли в процессе выполнения цепочки, посмотрите видеокурс:
 https://www.youtube.com/watch?v=Ic8U2sX7yd4
 
-Since the video guide was made in 2014, the older interfaces may look a bit different
-from what you see now, but the general steps to complete the mission will be the same.
+Из-за того, что видеокурс был записан в 2014 году, старый интерфейс может немного отличаться от текущего вида,
+но в целом, шаги для выполнения заданий останутся прежними.
 
-As you complete this chain, you'll earn a couple of new ships, some skill books, some
-modules, and a good chunk of isk.
+В процессе выполнения цепочки, вы получите несколько новых кораблей, несколько книг навыков, пару модулей 
+и хорошую сумму в кредитах.
 
-#### Common Stumbling Blocks
+#### Места, в которых часто возникают трудности
 
- * In mission 3 of 10, the Secret Documents will appear in a Cargo Container after you 
-   destroy the Runner Drone.  Make sure to loot them before you dock.  If you forgot them,
-   you can return to the Mission location for up to two hours afterwards, and they will still be there.
- * In mission 4 of 10, pay attention to your Local chat channel to see when you've completed the mission.
- * In mission 5 of 10, you need to destroy the pirate.
- * In mission 9 of 10, the Narcotics Warehouse may not appear on your overview.
-   It is one of the man-made structures around the large asteroid.
-   Search for it visually, and destroy it.
+ * В задании 3 из 10, секретные документы (Secret Documents) появятся в грузовом контейнере сразу после 
+   уничтожения Runner Drone. Обязательно заберите их оттуда прежде чем возвращаться в док станции. 
+   Если вы их забудете, вы можете вернуться в район выполнения задания в течение двух часов и контейнер с 
+   документами всё ещё будет там.
+ * В задании 4 из 10, следите на Локальным каналом чтобы увидеть сообщение о завершении миссии.
+ * В задании 5 из 10, вам нужно уничтожить пирата.
+ * В задании 9 из 10, склад наркотиков (Narcotics Warehouse) может не отображаться на вашей обзорной панели.
+   Это одна из рукотворных структур вокруг большого астероида.
+   Найдите её визуально и уничтожьте.
 
-### Advanced Military Agent
+### Агент углублённой боевой подготовки
 
-The Advanced Military Agent focuses on teaching you some of the concepts typically
-involved in PvP combat (though the agent's missions do not actually involve PvP).
+Агент углублённой боевой подготовки обучит вас некоторым принципам, зачастую используемым в 
+PvP сражениях (но при этом в заданиях агента вы не будете участвовать в реальном PvP).
 
 {{% notice warning %}}
-This mission chain involves your ship exploding. Leave your valuable items behind in station,
-and read all mission text carefully.
+В этой цепочке заданий ваш корабль взорвётся. Оставьте ценные предметы на станции и внимательно 
+читайте все тексты заданий.
 {{% /notice %}}
 
-We recommend following the [UniWiki Advanced Military chain guide]
-(http://wiki.eveuniversity.org/Advanced_Military_Career_Funnel_Chain) to complete
-this mission chain.
+Мы рекомендуем следовать руководству [UniWiki Advanced Military chain guide]
+(http://wiki.eveuniversity.org/Advanced_Military_Career_Funnel_Chain) для прохождения этой цепочки.
 
-As you complete this chain, you'll earn some new ships (including a Destroyer),
-some skill books, some modules, and a decent chunk of ISK.
+В процессе выполнения цепочки, вы получите несколько новых кораблей (включая эсминец), несколько книг навыков, пару модулей 
+и значительную сумму в кредитах.
 
-#### Common Stumbling Blocks
+#### Места, в которых часто возникают трудности
 
- * In mission 2 of 10, **your ship will be destroyed**.  You must use a Frigate.
-   It does not have to be the one provided to you by the Mission Agent - use whichever you like least.
-   The ship does not require any modules fit to complete the mission.
- * In mission 3 of 10, note that you need to Warp Disrupt the pirate, not destroy them.
- * In mission 5 of 10, **your ship will be destroyed**.  You can use any ship;
-   it must be capable of defeating at least one moderately-tough pirate.
-   The mission is completable in a properly-fit Corvette, if desired.
- * In mission 7 of 10, you can use any weapon to kill the pirate. (This is particularly useful for Caldari, who may not have yet trained the skill required for using Light Missiles.)
- * In mission 8 of 10, wait for the Fleet Commander's orders.
- * In mission 9 of 10, note that you must use a Civilian Stasis Webifier like the one provided.
-   You may have acquired some Stasis Webifier Is from other missions or the Market,
-   but they will not properly complete the mission.
- * In mission 10 of 10, **your ship will be unable to warp out** unless and until you are victorious.
-   Make sure your ship is properly fit for battle before you begin.
-   If you're unable to destroy the pirate, but the pirate is unable to destroy you, 
-   you can right-click your capacitor and "Self Destruct" to end the stalemate.
+ * В задании 2 из 10, **ваш корабль будет уничтожен**. Вы должны использовать фрегат.
+   Это не обязательно должен быть фрегат выданный агентом - используйте тот, который меньше всего вам нравится.
+   Для выполнения задания можно не устанавливать модули на корабль.
+ * В задании 3 из 10, вам нужно использовать варп-глушитель на пирата, а не уничтожить его.
+ * В задании 5 из 10, **ваш корабль будет уничтожен**. Вы можете использовать любой корабль;
+   он должен быть способен уничтожить хотя бы одного пирата средней сложности.
+   При желании, задание можно выполнить на правильно оснащённом корвете.
+ * В задании 7 из 10, вы можете использовать любые орудия для убийства пирата (это особенно важно для персонажей Калдари, 
+   которые могли ещё не выучить навык Лёгких ракет)
+ * В задании 8 из 10, ожидайте приказов комфлота (Fleet Commander).
+ * В задании 9 из 10, вам нужно использовать выданный Civilian Stasis Webifier.
+   Ранее на других заданиях или в торговой системе вы вполне могли раздобыть обычных Stasis Webifier 
+   но его использование не завершит это задание. 
+ * В задании 10 из 10, **ваш корабль не сможет отварпать** до тех пор пока вы не одержите победу.
+   Убедитесь в том что ваш корабль правильно оснащён всем необходимым перед началом боя.
+   Если вы не можете уничтожить пирата а пират не может уничтожить вас, вы можете нажить правой кнопкой мыши по накопителю 
+   и активировать "Самоуничтожение" для выхода из безвыходного положения.

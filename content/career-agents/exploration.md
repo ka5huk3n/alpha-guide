@@ -7,34 +7,31 @@ next = "/career-agents/industry/"
 prev = "/career-agents/business/"
 +++
 
-This mission chain walks you through how to use the scanning interfaces
-in EVE. Scanning lets you locate things like wormholes, data and relic sites
-to hack, and even other players' ships.
+Эта цепочка заданий ознакомит вас с принципами работы интерфейсов сканирования в «ЕВЕ».
+Сканирование позволяет вам находить червоточины, участки сбора данных 
+и поиска артефактов, и даже корабли игроков.
 
-The scanning interfaces can be a little hard to understand without seeing
-them in operation. Thankfully, EVE has a set of built-in video tutorials
-for how to use the scanning interfaces. To view them, press F12 to open
-the "Help" window, then select the "Tutorial Videos" tab. Scroll down to
-the "Exploration" subsection (click to expand it). Then watch the following
-videos:
+Разобраться в работе интерфейсов сканирования может быть нелегко, предварительно не увидев их в действии.
+К счастью, в клиенте «ЕВЫ» есть встроенный набор обучающих видеокурсов о принципах работы интерфейсов сканирования.
+Чтобы их посмотреть, нажмите клавишу F12 для открытия окна "Справочная система", после чего откройте вкладку "Учебные видеокурсы". 
+Прокрутите список вниз до раздела "Поисковая деятельность" (нажмите чтобы раскрыть список) и посмотрите следующие видео:
 
- * Scanning (1 of 3)
- * Scanning (2 of 3)
- * Hacking Data and Relic sites
+ * Сбор данных (1 of 3)
+ * Сбор данных (2 of 3)
+ * Взлом в районах сбора данных и поиска артефактов
 
-The other videos are also interesting, but aren't relevant to this particular
-mission chain - feel free to watch them when you have the time and interest.
+Другие видео тоже достаточно интересны, но они никак не относятся к обсуждаемой здесь цепочке заданий - 
+вы можете посмотреть их в любое время при желании.
 
-You can also look through our [scanning guide](/reference/scanning/) if you prefer a text format.
+Вы также можете прочесть наше [руководство по сканированию](/reference/scanning/) если вы предпочитаете текстовый формат.
 
-As you complete the chain, you'll earn a couple of new ships (including one
-specifically designed for exploration), some skill books, some modules,
-and a good chunk of ISK.
+В процессе выполнения цепочки, вы получите несколько новых кораблей (включая специализированный корабль для поисковой деятельности), несколько книг навыков, пару модулей 
+и хорошую сумму в кредитах.
 
-#### Common Stumbling Blocks
+#### Места, в которых часто возникают трудности
 
- * On mission 3 of 5, you'll be required to find a "Data Site".
-   This is a Cosmic Signature, and you will not be able to warp to it without using scanner probes.
-   Review the Scanning (2 or 3) video to learn how to use these probes to find the site.
- * On mission 5 of 5, you'll need a Passkey with you to be able to enter the final site.
-   It's provided to you when you begin the mission; remember to put it in your cargohold before you undock.
+ * В задании 3 из 5, вам нужно найти источников сигналов "ДАННЫЕ: район сбора данных".
+   Вы не сможете на него варпнуть без использования разведзондов.
+   Посмотрите видео Сбор данных (2 of 3) для того чтобы научиться находить источники сигналов с помощью разведзондов.
+ * В задании 5 из 5, вам нужно иметь при себе Passkey для того чтобы получить доступ к финальному участку.
+   Он выдаётся вам после принятия задания; не забудьте  положить его в трюм корабля перед выходом из дока.

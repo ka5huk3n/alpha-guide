@@ -7,20 +7,19 @@ next = "/career-agents/business/"
 prev = "/market/hubs/"
 +++
 
-In addition to the introductory tutorial, there are also a handful of Career Agents
-which will provide you with various missions introducing you to a particular kind of
-gameplay. These missions are an excellent way to explore some of the possibilities in
-EVE while also acquiring some extra ISK and ship hulls.
+В дополнение к вводному начальному обучению, существуют также несколько кадровых агентов, 
+которые предоставят вам доступ к различным заданиям, освещающим специфические виды игрового процесса.
+Выполнение этих заданий является отличным способом изучения некоторых возможностей развития в «ЕВЕ»
+и одновременно позволяет получить немного дополнительных ISK и кораблей.
 
 {{% notice tip %}}
-If you need to open the Career Agents window again (e.g. because you closed it),
-press <kbd>F12</kbd> to open the 'Help' window and click the 'Show Career Agents' button.
+Если вам нужно снова открыть окно кадровых агентов (например, если вы его закрыли),
+нажмите <kbd>F12</kbd> для открытия окна 'Справочная система' и нажмите на кнопку 'Показать список кадровых агентов'. 
 {{% /notice %}}
 
-We recommend that you complete all of the career agent mission chains now. The pages in
-this section will provide brief descriptions of what each chain will teach you and the
-rewards you will receive for completing them.
+Мы рекомендуем вам сразу же пройти все цепочки заданий кадровых агентов. Страницы в этом разделе
+предоставят краткие описания о том, чему вас научит каждая из цепочек и о наградах за их выполнение.
 
 {{% notice note %}}
-Be sure to read all mission text carefully - some objectives are easily missed.
+Убедитесь в том, что вы внимательно прочли весь текст задания - некоторые цели очень легко проглядеть.
 {{% /notice %}}
