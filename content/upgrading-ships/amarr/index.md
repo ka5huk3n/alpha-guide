@@ -7,154 +7,158 @@ next = "/new-goals/"
 prev = "/upgrading-ships/"
 +++
 
-Over the course of your Career Agent missions, 
-they will have given you some of the following ships.
-They are more powerful than your rookie ship.
-They are also more specialized, and each ship is built for a specific purpose.
+В процессе прохождения заданий кадровых агентов, вам будут выданы некоторые из перечисленных кораблей.
+Они более мощные чем ваш учебный корабль.
+Они также более специализированны, и каждый из них создан для определённой задачи.
 
-### Frigates
+### Фрегаты
 
-Frigates are some of the fastest and smallest ships in New Eden.
-This makes them very difficult for larger ships to hit.
-Their guns also track very quickly, allowing them to effectively fight other frigates.
-However, their raw defensive and offensive power is relatively weak.
+Фрегаты - самые быстрые и самые небольшие корабли в Новом Эдеме.
+Это делает их трудной целью для более крупных кораблей.
+Их орудия наводятся очень быстро, позволяя им эффективно вести бой против других фрегатов.
+Тем не менее, их защитные и атакующие показатели достаточно слабы.
 
 ##### Executioner
 
-The Executioner is the Amarr fast-attack frigate.
-It is extremely quick, and packs a decent punch.
-Its bonus to the capacitor cost of Propulsion Jamming modules 
-also makes it good at "tackling" enemy ships, holding them in place.
-However, it is relatively fragile.
+«Экзекьюшнер» - это амаррский быстроходный фрегат.
 
-[Here is a recommended fit for the Executioner.](/upgrading-ships/amarr/executioner/)
+Он невероятно быстр и может нанести неплохой урон.
+Бонус к расходу энергии накопителя при использовании модулей глушения двигательных установок 
+делает его полезным при перехвате вражеских кораблей, позволяя удерживать их на одном месте.
+Однако, он относительно хрупок.
+
+[Здесь можно увидеть рекомендованную оснастку для «Экзекьюшнера».](/upgrading-ships/amarr/executioner/)
 
 ##### Tormentor
 
-The Tormentor is the Amarr heavy attack frigate.
-It gets substantial bonuses to its three energy turrets,
-and is otherwise well-rounded, with decent defenses, 
-sufficient midslots to offer some utility, and a moderate drone bay.
-However, it is somewhat slow.
+«Торментор» - это амаррский тяжёлый ударный фрегат.
+Весомые бонусы к трём лазерным орудиям, неплохая защита, достаточное 
+количество свободных разъёмов средней мощности и средний отсек для дронов, 
+делают это корабль гармоничным.
+Однако, он довольно медлителен.
 
-[Here is a recommended fit for the Tormentor.](/upgrading-ships/amarr/tormentor/)
+[Здесь можно увидеть рекомендованную оснастку для «Торментора».](/upgrading-ships/amarr/tormentor/)
 
 ##### Punisher
 
 The Punisher is the Amarr heavy combat frigate.
-It is incredibly durable, and has potent firepower.
-However, it is quite slow, and its limited midslots limit its utility.
+«Панишер» - это амаррский тяжёлый боевой фрегат.
+Он невероятно живуч и обладает значительной огневой мощью.
+Тем не менее, он очень медлителен и малое число разъёмов средней мощности 
+ограничивает выбор дополнительного оборудования.
 
-[Here is a recommended fit for the Punisher.](/upgrading-ships/amarr/punisher/)
+[Здесь можно увидеть рекомендованную оснастку для «Панишера».](/upgrading-ships/amarr/punisher/)
 
 ##### Magnate
 
-The Magnate is the Amarr exploration frigate.
-It has substantial bonuses to the use of scanner probes and relic/data analyzers,
-making it a powerful option for exploration-minded capsuleers.
-However, it is fragile, and weak in direct combat.
+«Магнат» - это амаррский экспедиционный фрегат.
+У него есть эффективные бонусы к использованию разведзондов и анализаторов данных/артефактов,
+что делает его незаменимым для капсулёров решивших заняться поисковой деятельностью.
+Недостатком, однако, является его хрупкость и слабость в прямом противостоянии.
 
-[Here is a recommended fit for the Magnate.](/upgrading-ships/amarr/magnate/)
+[Здесь можно увидеть рекомендованную оснастку для «Магната».](/upgrading-ships/amarr/magnate/)
 
 ##### Inquisitor
 
-The Inquisitor is the Amarr logistics frigate.
-It has potent bonuses to remote armor repair modules,
-allowing it to "heal" allied ships in battle.
-However, it is not very useful to a solo pilot.
+«Инквизитор» - это амаррский фрегат боевого обеспечения.
+Эффективные бонусы для установок дистанционного ремонта брони позволяют 
+ему "лечить" союзные корабли в бою.
+Однако, он не очень полезен для соло пилота.
 
-For this reason, we recommend that you do not use the Inquisitor for now.
+По этой причине мы не рекомендуем вам использовать этот корабль на данном этапе. 
 
 ##### Crucifier
 
-The Crucifier is the Amarr electronic warfare frigate.
-It has powerful bonuses to the effectiveness of weapon disruptor modules,
-allowing it to degrade its enemies' range and accuracy while staying safely out of range itself.
-However, it is extremely fragile, and is not very useful to a solo pilot.
+«Крусифаер» - это амаррский фрегат радиоэлектронной борьбы.
+У него есть мощные бонусы к эффективности работы модулей создания помех системам наводки орудий, что позволяет ему 
+занижать дальность и точность орудий врага за пределами его досягаемости.
+Однако, он очень хрупок и не очень полезен для соло пилота.
 
-For this reason, we recommend that you do not use the Crucifier for now.
+По этой причине мы не рекомендуем вам использовать «Крусифаер» на данном этапе. 
 
 ##### Venture
 
 The Venture is a mining frigate, not specific to any one empire.
-It has powerful bonuses to its mining lasers and gas harvesters,
-as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources.
-It also has innate resistance to warp disruption, allowing it to escape attackers more easily.
-However, it is not particularly suitable for combat.
+«Венчур» - это буровой фрегат, не привязанный ни к одному из государств.
+У него есть мощные бонусы, влияющие на работу экстракторов руды и комбайнов газовых облаков.
+На борту имеется обширный отсек для руды, позволяющий накапливать значительные объёмы добываемого сырья.
+У него также есть встроенная сопротивляемость к варп-глушителям, позволяющая избежать боя с врагами при определённой доле везения.
+Однако, он не совсем подходит для боя.
 
-[Here is a recommended fit for the Venture.](/upgrading-ships/amarr/venture/)
+[Здесь можно увидеть рекомендованную оснастку для «Венчуры».](/upgrading-ships/amarr/venture/)
 
-### Destroyers
+### Эсминцы
 
-Destroyers are designed as a counter to frigates.
-They are "glass cannons" - they get large numbers of frigate-class guns,
-with substantial enhancements to their range and tracking,
-making them able to swat frigates out of the sky with ease.
-However,  their defenses are little stronger than a frigate's,
-and their larger size and slower speed makes them less able to avoid the fire
-of larger ships.  They are also lacking in any utility besides their damage output. 
+Эсминцы спроектированы в качестве средства противодействия фрегатам.
+Эсминцы являются "стеклянными пушками" - они оснащены большим числом орудий малого калибра 
+со значительными улучшениями к их дальности действия и скорости слежения, что позволяет с лёгкостью 
+отстреливать фрегаты на подлёте.
+Тем не менее, их защита лишь незначительно превосходит защиту фрегатов, а большие размеры и низкая скорость не позволяют 
+эффективно избегать попаданий от более крупных кораблей. Также, зачастую им не хватает разъёмов средней мощности для оснащения 
+дополнительного оборудования.
 
 ##### Coercer
 
 The Coercer is one of the Amarr destroyers, focusing on laser turrets.
-With the maximum of eight hardpoints for energy weapons,
-and with potent bonuses to their range and accuracy,
-it will quickly destroy any smaller enemies that come near it.
-However, it is very slow compared to frigates, and its size makes it much easier to hit.
-Additionally, it has very little utility outside of its lasers' damage output.
+«Коерсер» является одним из амаррских эсминцев и фокусируется на использовании лазерного вооружения.
+Благодаря наличию восьми точек монтажа для лазерных орудийных установок и наличию 
+бонуса к их дальности и точности, он очень быстро уничтожает всех небольших врагов на подлёте. 
+Тем не менее, он очень медлителен, по сравнению с фрегатами и его размеры делают его легкой целью.
+Кроме всего прочего ему не хватает разъёмов для использования дополнительных модулей.
 
-[Here is a recommended fit for the Coercer.](/upgrading-ships/amarr/coercer/)
+[Здесь можно увидеть рекомендованную оснастку для «Коерсера».](/upgrading-ships/amarr/coercer/)
 
 ##### Dragoon
 
-The Dragoon is the other Amarr destroyer, focusing on drones and energy neutralization.
-It has only three hardpoints for each of turrets and launchers,
-but can field a full flight of five light drones and two more flights in reserve,
-with bonuses to their damage and speed.
-It also gains bonuses to the range of Energy Neutralizers, used to directly attack
-enemies' capacitors in PvP.
-Its drones give it long reach, but its maximum damage output is low
-and its neutralizer bonuses are not useful in PvE.
+«Драгун» - это другой амаррский эсминец, который фокусируется на использовании дронов и нейтрализации энергии. 
+У него в наличии есть только три точки монтажа для орудийных и пусковых установок, но это компенсируется бонусом к урону 
+и скорости дронов а также трюмом достаточным для размещения пятнадцати лёгких дронов.
+У «Драгуна» также имеется бонус к дальности нейтрализаторов энергии, которые могут использоваться для 
+непосредственной атаки на накопитель противников в PvP.
+Дроны позволяют этому кораблю держаться на расстоянии от врагов, но его максимальный урон относительно низок и 
+бонусы к нейтрализаторам энергии не очень полезны в PvE.
 
-[Here is a recommended fit for the Dragoon.](/upgrading-ships/amarr/dragoon/)
+[Здесь можно увидеть рекомендованную оснастку для «Драгуна».](/upgrading-ships/amarr/dragoon/)
 
-### Cruisers
+### Крейсеры
 
-Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
-decent firepower, good defenses, moderate speed, and moderate price,
-they're the standard by which other ships are measured.  
+Крейсеры являются самым универсальным классом кораблей в Новом Эдеме. 
+Благодаря удобному расположению разъёмов, неплохой огневой мощи, хорошей защите, средней скорости и 
+средней цене, эти корабли стали стандартом, по которому оцениваются все прочие корабли.
+ 
+Оснастки для крейсеров не представлены в этом руководстве. К тому времени когда вы пересядете на крейсер,
+вы сможете создавать оснастки самостоятельно; ознакомьтесь с разделом
+[Правильное оснащение кораблей](/reference/fitting/) если вам нужны подсказки.
 
-Cruiser fittings will not be provided in this guide.  By the time you're getting
-into a cruiser, you should be creating fits for yourself; see
-[Fitting](/reference/fitting/) if you need some pointers.
 
-### Battlecruisers
+### Линейные крейсера
 
-Battlecruisers are to cruisers as destroyers are to frigates:
-much more heavily armed, but substantially slower.  Battlecruisers are
-also significantly better defended, yet also more expensive.
+Связь линейных крейсеров и крейсеров в какой-то мере подобна отношению эсминцев к фрегатам:
+они имеют более мощное вооружение, но гораздо медлительнее. Линейные крейсера также лучше 
+защищены но их цена при этом значительно выше.
 
-The Gnosis is the only battlecruiser available to Alpha clones.
-It is available to all races, and offers moderate bonuses to
-nearly all weapons systems and defenses while excelling in none.
+«Гнозис» является единственным линейным крейсером доступным альфа-клонам.
+Он доступен всем расам и предоставляет средние бонусы почти ко всем орудийным и защитным системам, 
+ничем при этом особо не выделяясь.
 
-A Gnosis fitting will not be provided in this guide. By the time you're getting
-into a battlecruiser, you should be creating fits for yourself; see
-[Fitting](/reference/fitting/) if you need some pointers. 
+Оснастка для «Гнозиса» не представлена в этом руководстве. К тому времени когда вы пересядете на линейный крейсер,
+вы сможете создавать оснастки самостоятельно; ознакомьтесь с разделом
+[Правильное оснащение кораблей](/reference/fitting/) если вам нужны подсказки.
 
-### Industrials
+
+### Грузовые корабли
 
 Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
-They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they're armed at all.
-They can be a great boon to a marketeer, industrialist, 
-or even a combat pilot restocking on gear or moving locations,
-but are borderline useless in combat and a favorite target of player pirates.
+Грузовые корабли представляют собой класс небоевых кораблей, которые специализируются на транспортировке грузов по Новому Эдему.
+У них есть вместительные грузовые трюмы, но это компенсируется низкой скоростью, неповоротливостью и практически полным отсутствием вооружения.
+Они могут быть неплохим подспорьем торговцу, производственнику и даже боевому пилоту, решившему пополнить запасы или сменить место обитания.
+Однако, в бою эти корабли практически бесполезны и являются излюбленной целью игроков-пиратов.
 
 ##### Sigil
 
-The Sigil is one of the Amarr industrials.
-It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
-long enough for reinforcements to arrive.
-However, it is extremely slow and clumsy, and is borderline useless in combat.
+«Сигил» - это один из амаррских грузовых кораблей.
+Его грузовой трюм достаточно вместителен; разъёмы для модулей позволяют оснастить достаточную защиту чтобы продержаться 
+под слабым напором атакующих до прихода подкрепления.
+Однако, он очень медлителен и неуклюж и почти полностью бесполезен в бою.
 
-[Here is a recommended fit for the Sigil.](/upgrading-ships/amarr/sigil/)
+[Здесь можно увидеть рекомендованную оснастку для «Сигила».](/upgrading-ships/amarr/sigil/)
