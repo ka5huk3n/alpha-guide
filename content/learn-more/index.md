@@ -7,21 +7,21 @@ next = "/reference/"
 prev = "/corps/"
 +++
 
-At this point you should be off to an excellent start in EVE:
+На этом этапе вы уже должны быть подготовлены к хорошему началу своего пути в «ЕВЕ»:
 
- * You've explored different options for what to do.
- * You have some ships with effective fits and know how to use them.
- * You have a plan for training new skills.
- * You've (probably) found a group of people to play with.
+ * Вы ознакомились с различными видами деятельности в игре.
+ * У вас появились несколько кораблей с эффективными оснастками и вы знаете как их использовать.
+ * У вас есть чёткий план изучения новых навыков.
+ * Вы возможно нашли группу игроков с которыми будете продолжать играть.
 
-EVE has a lot of complexity. To explore more of it, consider checking out some of these other
-excellent sites:
+В «ЕВЕ» существует множество сложностей. Для получения дополнительных ответов, вы можете посетить следующие веб-сайты:
 
- * [UniWiki](http://wiki.eveuniversity.org) is maintained by EVE University with articles on a wide
-variety of EVE topics.
- * [BRAVE Wiki](https://wiki.braveineve.com/) is another wiki maintained by Brave Newbies.
- * [Crossing Zebras](http://crossingzebras.com/) is an EVE fan site with many articles and podcasts about EVE.
- * The official [EVE Community](https://community.eveonline.com/) site has news, patch notes, and forums to read.
+ * [UniWiki](http://wiki.eveuniversity.org) поддерживается EVE University и содержит статьи, 
+ охватывающие широкий круг тем по игре.
+ * [BRAVE Wiki](https://wiki.braveineve.com/) это другая wiki от Brave Newbies.
+ * [Crossing Zebras](http://crossingzebras.com/) это фан-сайт «ЕВЕ» с множеством статей и подкастов.
+ * Официальный сайт [EVE Community](https://community.eveonline.com/), на котором можно найти новости, списки изменений обновлений и форум.
 
-You can also browse the final section of this site (Reference Material) for individual tips and information that
-didn't fit into the "walkthrough" portion of the guide.
+Также вы можете прочесть финальный раздел этого сайта (Справочный материал) для получения отдельных подсказок и другой информации, 
+не попавшей в часть "прохождения" этого руководства.
+

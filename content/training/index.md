@@ -7,9 +7,8 @@ next = "/training/core/"
 prev = "/new-goals/something-else/"
 +++
 
-Now that you have a better sense of what you're interested in doing in EVE,
-it's time to adjust your skill queue to train the skills that will help you
-with your chosen activities.
+Теперь, когда вы определились с тем, чем вы хотите заниматься в «ЕВЕ», самое время настроить план освоения 
+на изучение навыков, которые помогут вам в выбранном виде деятельности.
 
-The next few pages will walk through various aspects you might consider
-for skill training.
+Следующие несколько страниц ознакомят вас с различными аспектами, 
+которые могут оказаться полезными вам при изучении навыков

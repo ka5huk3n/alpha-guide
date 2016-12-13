@@ -13,9 +13,9 @@ prev = "/training/trade/"
 
 ### Стартовые NPC корпорации
 
-You start the game in one of these, automatically assigned based on how you created
-your character - your race and bloodline. If you ever join a different corp and then
-quit it later, you'll be placed back into another NPC corp based on your race.
+В начале игры вы автоматически попадаете в одну из таких корпораций, в зависимости от 
+расы и происхождения вашего персонажа. Если вы в дальнейшем вступите в другую корпорацию 
+и позже выйдете из неё, вас вернут обратно в другую NPC корпорацию вашей расы.
 
 All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn
 will be charged a 10% fee.

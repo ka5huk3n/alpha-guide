@@ -7,11 +7,10 @@ prev = "/upgrading-ships/"
 next = "/new-goals/exploration/"
 +++
 
-EVE is a sandbox game, so there's no particular progression for you to follow
-once you're past the tutorials. It's time to figure out what you want to do.
+«ЕВЕ» является игрой-песочницей и поэтому после прохождения начального обучения перед вами 
+не открывается чёткого пути развития. Настало время определиться с тем, чем вы хотите заниматься в дальнейшем.
 
-Now that you've finished the career agents' mission chains you should have a
-little bit better sense of how some of the various EVE activities work. The
-following pages will provide you with some more details about various options
-for what you can do in EVE, and point you in the right direction for each of
-them.
+Теперь, когда вы успешно выполнили все цепочки заданий кадровых агентов, у вас сложилось первое 
+впечатление о том, как функционируют различные виды деятельности в «ЕВЕ».
+Следующие страницы предоставят вам больше подробностей о различных вариантах времяпровождения в игре, 
+и направят вас в правильном направлении.
