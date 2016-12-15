@@ -10,7 +10,7 @@ prev = "/training/core/"
 If you've chosen a path that involves fighting other ships, here are some
 skills you'll probably want to train:
 
-### General Combat Skills
+### Основные боевые навыки
 
 `Weapon Upgrades` Level IV allows you to use the tech 2 versions of
 the damage bonus modules: Heat Sink II for lasers, Ballistic Control System
@@ -18,7 +18,7 @@ II for missiles, Magnetic Field Stabilizer II for hybrid weapons, Gyrostabilizer
 II for projectile weapons, and Drone Damage Amplifier II for drones. Better
 modules means more damage means faster ISK.
 
-### Drone Combat Skills
+### Дроновые боевые навыки
 
 If your ships have drone bays, you'll also want to further train your drone skills.
 `Light Drone Operation` Level IV is a good investment as the increased drone
@@ -43,7 +43,7 @@ to command drones out to its maximum lock range.
 `Drone Interfacing` provides a substantial damage boost to all drones.
 However, it requires Drones V to be trained as a pre-requisite.
 
-### Shield Skills
+### Навыки для защиты щитом
 
 If you're flying ships that use shields as their main form of defense, you'll want
 to train these skills to improve your shield defenses:
@@ -58,7 +58,7 @@ allowing you to run it longer for more boosting.
 `Shield Management` increases your total shield amount, you should train it as high
 as possible for your race when you get the chance.
 
-### Armor Skills
+### Навыки для защиты бронёй
 
 If you're flying ships that use armor as their main form of defense, you'll want to
 train these skills to improve your armor defenses:
@@ -66,7 +66,7 @@ train these skills to improve your armor defenses:
 `Repair Systems` Level III allows you to use a Small Armor Repairer II, which provides
 more repairs than the basic armor repairer.
 
-### Gunnery Skills
+### Орудийные навыки
 
 If you're flying ships that use turrets as their main weapon system, you'll want
 to train these skills to improve your turret weapons:
@@ -93,7 +93,7 @@ extending the distance at which they are effective.
 clone pilots can ignore this skill since projectile turrets don't use capacitor. For
 everyone else, it's generally a good idea to train this skill.
 
-### Missile Skills
+### Ракетные навыки
 
 If you're flying ships that use missiles as their main weapon system, you'll want
 to train these skills to improve your missile launchers:
@@ -130,15 +130,15 @@ their maximum potential damage to fast-moving targets. If you often find yoursel
 struggling to do much damage to the smaller, faster ships you're shooting, train
 this skill to help with that.
 
-### Medium Weapon Skills
+### Навыки для орудий среднего размера
 
 If the path you've chosen involves upgrading to cruisers and battlecruisers, you'll
 also want to train for medium-sized weapons to put on them. This means some subset
 of the following:
 
- * `Medium Energy Turret` (Amarr)
- * `Medium Hybrid Turret` (Caldari, Gallente)
- * `Medium Projectile Turret` (Minmatar)
- * `Heavy Missiles` (Caldari, Minmatar)
- * `Heavy Assault Missiles` (Caldari, Minmatar)
- * `Medium Drone Operation` (Amarr, Gallente)
+ * `Лазерные орудия средней мощности` (`Medium Energy Turret`) (Амарр)
+ * `Гибридные орудия среднего калибра` (`Medium Hybrid Turret`)(Калдари, Галленте)
+ * `Баллистические орудия среднего калибра` (`Medium Projectile Turret`)(Минматар)
+ * `Тяжёлые ракеты` (`Heavy Missiles`)(Калдари, Минматар)
+ * `Тяжёлые штурмовые ракеты` (`Heavy Assault Missiles`)(Калдари, Минматар)
+ * `Средние боевые дроны` (`Medium Drone Operation`)(Амарр, Галленте)
