@@ -7,19 +7,20 @@ next = "/training/mining/"
 prev = "/training/combat/"
 +++
 
-If you've chosen to try out exploration further, you'll want to train the following:
+Если вы решили продолжить путь исследования космоса, вы захотите выучить следующие навыки:
 
-### General Scanning Skills
+### Основные навыки в области сканирования
 
-`Astrometric Acquisition` and `Astrometric Rangefinding` make it easier to
-scan down cosmic signatures. You'll want to train them both to Level II.
+Навыки `Ускорение вычислений разведзондов` (`Astrometric Acquisition`) и `Повышение чувствительности разведзондов` 
+(`Astrometric Rangefinding`) позволяют облегчить процесс определения координат источников сигналов. 
+Вы захотите выучить оба навыка до II уровня.
 
-Also make sure to train your racial Frigate skill all the way to Level IV,
-as that will increase the effectiveness of your exploration ship's bonuses.
+Также, убедитесь в том, что вы выучили навык расового фрегата до IV уровня. 
+Это увеличит эффективность бонусов вашего экспедиционного корабля.
 
-### Exploration Skills
+### Экспедиционные навыки
 
-`Archeology` increases your Virus Coherence ("health") when hacking relic
-site containers. Training this to Level III will help you successfully
-complete hacks more often. `Hacking` is the equivalent for data sites,
-but it's less of a priority since relic sites are the better of the two.
+Навык `Археология` (`Archaeology`) повышает степень целостности вируса (его "здоровье") во время 
+взлома контейнеров в районах поиска артефактов. Изучение этого навыка до III уровня позволит повысить 
+частоту успешных взломов. Навык `Взлом электронных систем` (`Hacking`) действует аналогично для районов сбора данных,
+но он менее приоритетен так как районы поиска артефактов более выгодны.
