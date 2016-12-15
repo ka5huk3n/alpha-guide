@@ -7,13 +7,13 @@ next = "/training/trade/"
 prev = "/training/mining/"
 +++
 
-Nearly everyone will want to train their race's Frigate skill up to at least
-Level III, as this both improves the effectiveness of their frigate's ship bonuses
-and also unlocks additional classes of ships for training.
+Практически каждый игрок захочет выучить навык расового фрегата хотя бы до III уровня, 
+так как это одновременно повышает эффективность бонусов их фрегатов и открывает возможность изучения 
+дополнительных класов кораблей.
 
-If the path you've chosen involves flying frigates a lot, you'll probably want
-to go a bit further and train the skill to Level IV to further improve your
-ship bonuses.
+Если выбранный вами путь развития предполагает частое использование фрегатов, вы, скорее всего, 
+захотите пойти ещё дальше и выучить этот навык до IV уровня, для того, чтобы увеличить бонусы корабля 
+ещё больше.
 
-If the path you've chosen involves upgrading to higher classes of ships, you'll
-probably want to start training towards cruisers.
+Если выбранный вами путь развития предполагает пересадку на корабли более высокого класса, вы, вероятно, 
+захотите начать изучение навыков необходимых для полётов на крейсерах.

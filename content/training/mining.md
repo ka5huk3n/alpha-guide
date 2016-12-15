@@ -7,34 +7,33 @@ next = "/training/ship/"
 prev = "/training/exploration/"
 +++
 
-If you've chosen to further explore mining, you'll want to train these skills:
+Если вы выбрали дальнейший путь развития связанный с добычей, вы захотите изучить следующие навыки:
 
-### General Mining Skills
+### Основные навыки для добычи
 
-`Mining Frigate` Level IV - as an alpha clone, the best ship available to you
-for mining is the Venture. Training up this skill will improve the Venture's
-mining bonuses.
+`Буровые фрегаты` (`Mining Frigate`) IV уровня - «Венчур» является лучшим кораблём 
+для добычи доступным для альфа-клонов. Изучение этого навыка увеличит бонусы добычи у «Венчуры».  
 
-### Ore Mining
+### Добыча руды
 
-`Mining` Level IV adds a little more yield to your mining lasers, so each cycle
-will obtain a bit more ore.
+`Добыча руды` (`Mining`) IV уровня немного повышает производительность ваших буровых лазеров, 
+увеличивая количество руды добываемой за каждый цикл.
 
-`Mining Upgrades` Level IV lets you use a Mining Laser Upgrade II which provides
-the best bonus to mining lasers available in a module. (Even just Level I will
-let you use the basic version of the module for a smaller bonus.)
+`Оптимизация бурового оборудования` (`Mining Upgrades`) IV уровня позволяет вам использовать модуль 
+Mining Laser Upgrade II, который предоставляет лучшие бонусы к производительности буровых лазеров среди 
+всех доступных модулей. (Даже I уровень позволит вам использовать базовую версию модуля с меньшим бонусом).
 
-### Gas Harvesting
+### Добыча газа
 
-If you want, you can also explore gas harvesting, which is very similar to ore
-mining but is done at special gas sites which have to be scanned down with probes.
-If you want to harvest gas, train `Gas Cloud Harvesting` Level II and equip your
-Venture with a pair of gas harvesters instead of mining lasers.
+При желании, вы можете попробовать заняться добычей газа, которая очень похожа на добычу руды 
+но происходит в специальных районах для добычи газа. Найти эти районы можно с помощью разведзондов.
+Если вы хотите добывать газ, выучите навык `Добыча газа` (`Gas Cloud Harvesting`) до II уровня и оснастите ваш 
+«Венчур» двумя комбайнами газовых облаков вместо буровых лазеров.
 
-The skill book for Gas Harvesting is somewhat expensive, and the gas harvesters
-themselves are also a little spendy. However, the gas mined with them will often
-fetch a higher price than ore would.
+Учебник для навыка Добычи газа относительно дорог и комбайнами газовых облаков также недёшевы.
+Несмотря на это, добытый с их помощью газ продаётся гораздо дороже обычной руды. 
 
 {{% notice note %}}
-Most of the valuable gas sites occur in dangerous areas - lowsec and wormhole space.
+Большинство районов с ценными видами газа появляются в опасных зонах - в системах с 
+низким уровнем безопасности и в червоточинах.
 {{% /notice %}}
