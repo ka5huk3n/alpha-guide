@@ -7,13 +7,12 @@ next = "/corps/"
 prev = "/training/ship/"
 +++
 
-If you've chosen a path that involves lots of buying and selling things on
-the market, you'll want to improve your trading skills. You can skip these
-skills if chosing a path that doesn't focus on the market.
+Если вы выбрали путь развития связанный с частыми покупками и продажами предметов в торговой системе,
+вы скорее всего захотите улучшить свои торговые навыки. Вы можете пропустить эти навыки если 
+выбранный путь не связан с торговлей.
 
-`Trade` Level III will maximize the number of simultaneous buy and sell orders
-you can have posted on the market at once as an alpha clone.
+`Торговля` (`Trade`) III уровня увеличит максимальное число одновременно открытых ордеров на покупку и продажу 
+которые вы можете размещать в торговой системе альфа-клоном.
 
-`Broker Relations` Level II will slightly reduce the fees involved in creating
-market orders. It's a small difference, but over time that can add up to a lot
-of ISK.
+`Брокерское дело` (`Broker Relations`) II уровня позволит немного снизить комиссию за размещение ордеров в торговой системе.
+Разница не очень большая, но с течением времени сумма в ISK может оказаться внушительной.

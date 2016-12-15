@@ -7,153 +7,153 @@ next = "/new-goals/"
 prev = "/upgrading-ships/"
 +++
 
-Over the course of your Career Agent missions, 
-they will have given you some of the following ships.
-They are more powerful than your rookie ship.
-They are also more specialized, and each ship is built for a specific purpose.
+В процессе прохождения заданий кадровых агентов, вам будут выданы некоторые из перечисленных кораблей.
+Они более мощные чем ваш учебный корабль.
+Они также более специализированны, и каждый из них создан для определённой задачи.
 
-### Frigates
+### Фрегаты
 
-Frigates are some of the fastest and smallest ships in New Eden.
-This makes them very difficult for larger ships to hit.
-Their guns also track very quickly, allowing them to effectively fight other frigates.
-However, their raw defensive and offensive power is relatively weak.
+Фрегаты - самые быстрые и самые небольшие корабли в Новом Эдеме.
+Это делает их трудной целью для более крупных кораблей.
+Их орудия наводятся очень быстро, позволяя им эффективно вести бой против других фрегатов.
+Тем не менее, их защитные и атакующие показатели достаточно слабы.
 
 ##### Atron
 
-The Atron is the Gallente fast-attack frigate.
-It is extremely quick, and packs a decent punch.
-Its bonus to the capacitor cost of Propulsion Jamming modules 
-also makes it good at "tackling" enemy ships, holding them in place.
-However, it is relatively fragile.
+«Этрон» - это галлентский быстроходный фрегат.
+Он невероятно быстр и может нанести неплохой урон.
+Бонус к расходу энергии накопителя при использовании модулей глушения двигательных установок 
+делает его полезным при перехвате вражеских кораблей, позволяя удерживать их на одном месте.
+Однако, он относительно хрупок.
 
-[Here is a recommended fit for the Atron.](/upgrading-ships/gallente/atron/)
+[Здесь можно увидеть рекомендованную оснастку для «Этрона».](/upgrading-ships/gallente/atron/)
 
 ##### Tristan
 
-The Tristan is the Gallente heavy attack frigate.
+«Тристан» - это галлентский тяжёлый ударный фрегат.
 As a drone platform, it is unrivalled among tech one frigates,
 capable of fielding a full flight of five light drones, with three spares
 in its spacious drone bay.  It is also fairly well-rounded otherwise,
 with moderate damage output from its turrets and decent speed and utility options.
 However, it is somewhat lightly defended.
 
-[Here is a recommended fit for the Tristan.](/upgrading-ships/gallente/tristan/)
+[Здесь можно увидеть рекомендованную оснастку для «Тристана».](/upgrading-ships/gallente/tristan/)
 
 ##### Incursus
 
-The Incursus is the Gallente heavy combat frigate.
+«Инкёрсус» - это галлентский тяжёлый боевой фрегат.
 Its bonuses to armor repairers let it shrug off a great deal of incoming damage, 
 and it has good firepower and decent utility options.
 However, it is fairly slow.
 
-[Here is a recommended fit for the Incursus.](/upgrading-ships/gallente/incursus/)
+[Здесь можно увидеть рекомендованную оснастку для «Инкёрсуса».](/upgrading-ships/gallente/incursus/)
 
 ##### Imicus
 
-The Imicus is the Gallente exploration frigate.
-It has substantial bonuses to the use of scanner probes and relic/data analyzers,
-making it a powerful option for exploration-minded capsuleers.
-However, it is fragile, and weak in direct combat.
+«Имикус» - это галлентский экспедиционный фрегат.
+У него есть эффективные бонусы к использованию разведзондов и анализаторов данных/артефактов,
+что делает его незаменимым для капсулёров решивших заняться поисковой деятельностью.
+Недостатком, однако, является его хрупкость и слабость в прямом противостоянии.
 
-[Here is a recommended fit for the Imicus.](/upgrading-ships/gallente/imicus/)
+[Здесь можно увидеть рекомендованную оснастку для «Имикуса»](/upgrading-ships/gallente/imicus/)
 
 ##### Navitas
 
-The Navitas is the Gallente logistics frigate.
-It has potent bonuses to remote armor repair modules,
-allowing it to "heal" allied ships in battle.
-However, it is not very useful to a solo pilot.
+«Навитас» - это галлентский фрегат боевого обеспечения.
+Эффективные бонусы для установок дистанционного ремонта брони позволяют 
+ему "лечить" союзные корабли в бою.
+Однако, он не очень полезен для соло пилота.
 
-For this reason, we recommend that you do not use the Navitas for now.
+По этой причине мы не рекомендуем вам использовать «Навитас» на данном этапе. 
 
 ##### Maulus
 
-The Maulus is the Gallente electronic warfare frigate.
+«Молус» - это галлентский фрегат радиоэлектронной борьбы.
 It has powerful bonuses to the effectiveness of sensor dampener modules,
 allowing it to interfere with the locking speed and range of its enemies' sensors from long range.
-However, it is extremely fragile, and is not very useful to a solo pilot.
+Однако, он очень хрупок и не очень полезен для соло пилота.
 
-For this reason, we recommend that you do not use the Maulus for now.
+По этой причине мы не рекомендуем вам использовать «Молус» на данном этапе. 
 
 ##### Venture
 
-The Venture is a mining frigate, not specific to any one empire.
-It has powerful bonuses to its mining lasers and gas harvesters,
-as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources.
-It also has innate resistance to warp disruption, allowing it to escape attackers more easily.
-However, it is not particularly suitable for combat.
+«Венчур» - это буровой фрегат, не привязанный ни к одному из государств.
+У него есть мощные бонусы, влияющие на работу экстракторов руды и комбайнов газовых облаков.
+На борту имеется обширный отсек для руды, позволяющий накапливать значительные объёмы добываемого сырья.
+У него также есть встроенная сопротивляемость к варп-глушителям, позволяющая избежать боя с врагами при определённой доле везения.
+Однако, он не совсем подходит для боя.
 
-[Here is a recommended fit for the Venture.](/upgrading-ships/gallente/venture/)
+[Здесь можно увидеть рекомендованную оснастку для «Венчуры».](/upgrading-ships/gallente/venture/)
 
-### Destroyers
+### Эсминцы
 
-Destroyers are designed as a counter to frigates.
-They are "glass cannons" - they get large numbers of frigate-class guns,
-with substantial enhancements to their range and tracking,
-making them able to swat frigates out of the sky with ease.
-However,  their defenses are little stronger than a frigate's,
-and their larger size and slower speed makes them less able to avoid the fire
-of larger ships.  They are also lacking in any utility besides their damage output. 
+Эсминцы спроектированы в качестве средства противодействия фрегатам.
+Эсминцы являются "стеклянными пушками" - они оснащены большим числом орудий малого калибра 
+со значительными улучшениями к их дальности действия и скорости слежения, что позволяет с лёгкостью 
+отстреливать фрегаты на подлёте.
+Тем не менее, их защита лишь незначительно превосходит защиту фрегатов, а большие размеры и низкая скорость не позволяют 
+эффективно избегать попаданий от более крупных кораблей. Также, зачастую им не хватает разъёмов средней мощности для оснащения 
+дополнительного оборудования. 
 
 ##### Catalyst
 
 The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets.
+«Каталист»
 With the maximum of eight hardpoints for hybrid weapons,
 and with potent bonuses to their range and accuracy,
 it will quickly destroy any smaller enemies that come within range of its guns.
 However, it is very slow compared to frigates, and its size makes it much easier to hit.
 Additionally, it has very little utility outside of its weapons' damage output.
 
-[Here is a recommended fit for the Catalyst.](/upgrading-ships/gallente/catalyst/)
+[Здесь можно увидеть рекомендованную оснастку для «Каталиста».](/upgrading-ships/gallente/catalyst/)
 
 ##### Algos
 
 The Algos is the other Gallente destroyer, focusing on drones.
+«Алгос»
 It gets only five turret hardpoints, few for a destroyer,
 but has the drone bandwidth to begin mixing in medium drones
 into its flights, with room in its bay for a spare flight of lights.
 It also has moderate speed and defenses, and works well with shield-tanking modules.
 
-[Here is a recommended fit for the Algos.](/upgrading-ships/gallente/algos/)
+[Здесь можно увидеть рекомендованную оснастку для «Алгоса».](/upgrading-ships/gallente/algos/)
 
-### Cruisers
+### Крейсеры
 
-Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
-decent firepower, good defenses, moderate speed, and moderate price,
-they're the standard by which other ships are measured.  
+Крейсеры являются самым универсальным классом кораблей в Новом Эдеме. 
+Благодаря удобному расположению разъёмов, неплохой огневой мощи, хорошей защите, средней скорости и 
+средней цене, эти корабли стали стандартом, по которому оцениваются все прочие корабли.
 
-Cruiser fittings will not be provided in this guide.  By the time you're getting
-into a cruiser, you should be creating fits for yourself; see
-[Fitting](/reference/fitting/) if you need some pointers.
+Оснастки для крейсеров не представлены в этом руководстве. К тому времени когда вы пересядете на крейсер,
+вы сможете создавать оснастки самостоятельно; ознакомьтесь с разделом
+[Правильное оснащение кораблей](/reference/fitting/) если вам нужны подсказки.
 
-### Battlecruisers
+### Линейные крейсеры
 
-Battlecruisers are to cruisers as destroyers are to frigates:
-much more heavily armed, but substantially slower.  Battlecruisers are
-also significantly better defended, yet also more expensive.
+Связь линейных крейсеров и крейсеров в какой-то мере подобна отношению эсминцев к фрегатам:
+они имеют более мощное вооружение, но гораздо медлительнее. Линейные крейсеры также лучше 
+защищены но их цена при этом значительно выше.
 
-The Gnosis is the only battlecruiser available to Alpha clones.
-It is available to all races, and offers moderate bonuses to
-nearly all weapons systems and defenses while excelling in none.
+«Гнозис» является единственным линейным крейсером доступным альфа-клонам.
+Он доступен всем расам и предоставляет средние бонусы почти ко всем орудийным и защитным системам, 
+при этом ничем особо не выделяясь.
 
-A Gnosis fitting will not be provided in this guide. By the time you're getting
-into a battlecruiser, you should be creating fits for yourself; see
-[Fitting](/reference/fitting/) if you need some pointers. 
+Оснастка для «Гнозиса» не представлена в этом руководстве. К тому времени когда вы пересядете на линейный крейсер,
+вы сможете создавать оснастки самостоятельно; ознакомьтесь с разделом
+[Правильное оснащение кораблей](/reference/fitting/) если вам нужны подсказки.
 
-### Industrials
+### Грузовые корабли
 
-Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
-They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they're armed at all.
-They can be a great boon to a marketeer, industrialist, 
-or even a combat pilot restocking on gear or moving locations,
-but are borderline useless in combat and a favorite target of player pirates.
+Грузовые корабли представляют собой класс небоевых кораблей, которые специализируются на транспортировке грузов по Новому Эдему.
+У них есть вместительные грузовые трюмы, но это компенсируется низкой скоростью, неповоротливостью и практически полным отсутствием вооружения.
+Они могут быть неплохим подспорьем торговцу, производственнику и даже боевому пилоту, решившему пополнить запасы или сменить место обитания.
+Однако, в бою эти корабли практически бесполезны и являются излюбленной целью игроков-пиратов.
 
 ##### Nereus
 
-The Nereus is one of the Gallente industrials - a ship line focused on hauling goods from place to place.
-It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
-long enough for reinforcements to arrive.
-However, it is extremely slow and clumsy, and is borderline useless in combat.
+«Нереус» - это один из галлентских грузовых кораблей.
+Его грузовой трюм достаточно вместителен; разъёмы для модулей позволяют оснастить достаточную защиту 
+чтобы продержаться под слабым напором атакующих до прихода подкрепления.
+Однако, он очень медлителен и неуклюж и почти полностью бесполезен в бою.
 
-[Here is a recommended fit for the Nereus.](/upgrading-ships/gallente/nereus/)
+[Здесь можно увидеть рекомендованную оснастку для «Нереуса».](/upgrading-ships/gallente/nereus/)
