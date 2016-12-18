@@ -7,26 +7,26 @@ next = "/training/combat/"
 prev = "/training/"
 +++
 
-There are some skills that basically every player will want to train
-because they're useful no matter what ship you're flying.
+Существуют некоторые навыки, изучить которые стоит любому игроку, вне зависимости от того, 
+на каких кораблях они летают.
 
-`Hull Upgrades` Level IV allows you to use the better Damage Control II
-module, which is a significant improvement over the basic version of the module,
-making your ship more survivable.
+`Оптимизация корпуса`(`Hull Upgrades`) IV уровня позволяет вам использовать улучшенный 
+модуль  Damage Control II, который значительно превосходит базовую версию и увеличивает 
+выживаемость вашего корабля.
 
-`Shield Upgrades` Level IV allows you to use better shield-related modules, improving
-your shield-based defenses. (Caldari, Gallente, and Minmatar only. If you're
-using ships that focus on armor defenses, you can skip this for now.)
+`Оптимизация щитов`(`Shield Upgrades`) IV уровня позволяет вам использовать улучшенные модули для щита, 
+которые увеличивают защиту щитом. (Только для Калдари, Галленте, Минматар. Если вы используете корабли с 
+броневой защитой, можете пока пропустить эти навыки.)
 
-`Energy Grid Upgrades` Level III allows you to use a lot of new capacitor-related
-modules, making it easier to create ship fits that don't run out of capacitor
-quite as easily. Level IV lets you upgrade many of those modules to their better
-tech 2 variants, further improving capacitor benefits. You'll definitely want to
-train III, and eventually you'll want to train IV, too.
+`Оптимизация реактора`(`Energy Grid Upgrades`) III уровня позволяет вам использовать множество новых 
+модулей для накопителя энергии, что облегчает задачу по созданию корабельных оснасток со стабильной 
+энергией накопителя. IV уровень навыка откроет вам доступ к улучшенным модулям второй техкатегории, 
+ещё больше увеличивая соответствующие преимущества. Вам определённо стоит сразу изучить III уровень навыка, 
+и, со временем, IV уровень.
 
-If the ships you're flying have drone bays, `Drones` Level III and
-`Light Drone Operation` Level I are highly recommended so that your ships
-can use at least light combat drones, which provide some additional combat
-capability for any ship with a drone bay. If you decide to keep using
-drones you'll eventually want to train `Drones` Level V so that you
-can launch up to 5 drones (assuming the ship allows it).
+Если на ваших кораблях есть отсеки для дронов, рекомендуем изучить `Дроны`(`Drones`) III уровня 
+и `Лёгкие боевые дроны`(`Light Drone Operation`) I уровня для того, чтобы ваш корабль мог использовать хотя бы
+лёгких боевых дронов, добавляющих дополнительное боевое преимущество. 
+Если вы решите использовать дронов в дальнейшем, со временем вы захотите выучить навык `Дроны` до V уровня, для 
+того чтобы запускать в космос 5 дронов (если корабль это позволяет).
+
