@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "Производство"
-weight = 1
-next = "/career-agents/military/"
-prev = "/career-agents/exploration/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/career-agents/military/",
+  "prev": "/career-agents/exploration/",
+  "title": "Производство",
+  "toc": "true",
+  "weight": "1"
+}
 
 Это цепочка заданий под общим названием **Делаем из мухи слона**. 
 На протяжении 10 заданий вы сосредоточитесь на том, как производить новые предметы в «ЕВЕ» с нуля:

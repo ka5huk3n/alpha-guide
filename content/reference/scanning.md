@@ -1,10 +1,9 @@
-+++
-title = "Разведывательные зонды и вы"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/reference/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "prev": "/reference/",
+  "toc": "true",
+  "weight": "1"
+}
 
 This guide is an alternative to the in-game scanning tutorial video (though you can also watch that
 by pressing <kbd>F12</kbd> and going to the Tutorial Videos tab, Exploration section).

@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "Исследование космоса"
-weight = 1
-next = "/career-agents/industry/"
-prev = "/career-agents/business/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/career-agents/industry/",
+  "prev": "/career-agents/business/",
+  "title": "Исследование космоса",
+  "toc": "true",
+  "weight": "1"
+}
 
 Эта цепочка заданий ознакомит вас с принципами работы интерфейсов сканирования в «ЕВЕ».
 Сканирование позволяет вам находить червоточины, участки сбора данных 

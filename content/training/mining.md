@@ -1,11 +1,11 @@
-+++
-title = "Добыча"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 2
-next = "/training/ship/"
-prev = "/training/exploration/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/ship/",
+  "prev": "/training/exploration/",
+  "title": "Добыча",
+  "toc": "true",
+  "weight": "2"
+}
 
 Если вы выбрали дальнейший путь развития связанный с добычей, вы захотите изучить следующие навыки:
 

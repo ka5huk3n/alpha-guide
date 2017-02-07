@@ -1,11 +1,11 @@
-+++
-title = "Исследование космоса"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 2
-next = "/training/mining/"
-prev = "/training/combat/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/mining/",
+  "prev": "/training/combat/",
+  "title": "Исследование космоса",
+  "toc": "true",
+  "weight": "2"
+}
 
 Если вы решили продолжить путь исследования космоса, вы захотите выучить следующие навыки:
 
